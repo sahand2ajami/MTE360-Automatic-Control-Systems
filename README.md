@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed:
 ## Lab Content
 The repository is structured as follows:
 - `Lab1/`: Introduction to Simulink for control system design
-  -- system identification through step response measurement
+  - system identification through step response measurement
 - `Lab2/`: Modeling and simulation of the Quanser Flexible Cart system.
 - `Lab3/`: Design and implementation of PID controllers for the Quanser Flexible Cart.
 - `Lab4/`: Advanced control strategies for the Quanser Flexible Cart (e.g., state-space control, LQR).
