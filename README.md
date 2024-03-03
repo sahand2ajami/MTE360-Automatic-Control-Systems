@@ -12,10 +12,23 @@ Before you begin, ensure you have the following installed:
 ## Lab Content
 The repository is structured as follows:
 - `Lab1/`: Introduction to Simulink for control system design
-  - system identification through step response measurement
-- `Lab2/`: Modeling and simulation of the Quanser Flexible Cart system.
-- `Lab3/`: Design and implementation of PID controllers for the Quanser Flexible Cart.
-- `Lab4/`: Advanced control strategies for the Quanser Flexible Cart (e.g., state-space control, LQR).
+  - System identification through step response measurement.
+  - Proportional (P-type) position control.
+  - Closed-loop system identification using Bode plot.
+- `Lab2/`: Controller design and stability analysis:
+  - Proportional-Derivative (PD) controller.
+  - Proportional-Integral-Derivative (PID) controller and stability analysis.
+  - Disturbance and steady-state error analysis.
+- `Lab3/`: Identification and P-control of cascaded systems:
+  - Collocated vs. non-collocated control.
+  - Step response measurement.
+  - Frequency response measurement.
+- `Lab4/`: Frequency domain loop shaping control of cascaded systems
+  - Gain selection
+  - Notch filter design
+  - Lead compensator design
+  - Lag compensator design
+  - Feedforward controller design
 
 Each lab folder contains:
 - `Instructions.pdf`: Detailed lab instructions and theoretical background.
