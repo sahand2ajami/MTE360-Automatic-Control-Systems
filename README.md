@@ -8,7 +8,7 @@ Before you begin, ensure you have the following installed:
 - Simulink
 - Control System Toolbox
 - Quanser Hardware Support Package (for real-time implementation)
-- Quanser linear flexible joint [https://www.quanser.com/products/linear-flexible-joint/]([url](https://www.quanser.com/products/linear-flexible-joint/))
+- Quanser linear flexible joint [https://www.quanser.com/products/linear-flexible-joint/](https://www.quanser.com/products/linear-flexible-joint/)
 
 ## Lab Content
 The repository is structured as follows:
